@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#f7f7f7"/>
+  <rect x="40" y="40" width="720" height="420" rx="24" fill="#ffffff" stroke="#d9d9d9" stroke-width="2"/>
+  <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#222">
+    Test SVG File
+  </text>
+  <text x="400" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#555">
+    Sample file for upload testing
+  </text>
+  <circle cx="220" cy="290" r="55" fill="#4f46e5" opacity="0.9"/>
+  <rect x="360" y="235" width="110" height="110" rx="18" fill="#10b981"/>
+  <polygon points="610,235 665,345 555,345" fill="#f59e0b"/>
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#666">
+    SVG • Simple shapes • Clean test asset
+  </text>
+</svg>
